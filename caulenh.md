@@ -35,9 +35,31 @@ Mở git bash ( ls -a )
 
 
 
+
+
+**#23. Câu Lệnh git status  \& git add**
+
 git status là cách bạn kiểm tra trạng thái của file
 
 
 
 git add là thêm file vào git (chưa commit, stage area)
+
+
+
+**#24. Câu Lệnh git commit** 
+
+Mục đích: ghi nhận sự thay đổi đối với một khối lượng công việc đã làm
+
+
+
+git commit
+
+
+
+git commit -m "conten message"
+
+
+
+-m: (message)
 
